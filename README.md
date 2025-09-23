@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="vi">
 
 <head>
@@ -147,6 +146,7 @@
         <a href="https://dai0bii.github.io/randomname/" target="_blank">random</a>
         <a href="https://dai0bii.github.io/gamealtp/" target="_blank">altp1</a>
         <a href="https://dai0bii.github.io/gamealtp1/" target="_blank">altp2</a>
+        <a href="https://dai0bii.github.io/hangman/" target="_blank">HangMan</a>
     </div>
 
     <!-- Âm thanh -->
